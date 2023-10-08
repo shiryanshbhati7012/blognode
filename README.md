@@ -1,3 +1,3 @@
 "# blognode" 
-"#nodemodule"
+"#node_modules"
 
